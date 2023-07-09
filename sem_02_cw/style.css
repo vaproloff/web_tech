@@ -1,0 +1,45 @@
+@font-face {
+    font-family: teddy_bear;
+    src: url(fonts/teddy-bear.ttf);
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.wrapper {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: darkmagenta;
+    font-family: teddy_bear, sans-serif;
+}
+
+h2 {
+    color: chocolate;
+}
+
+a {
+    color: darksalmon
+}
+
+a:hover {
+    color: red
+}
+
+img {
+    width: 500px;
+    border: 3px solid black;
+    margin-left: 15px;
+}
+
+ul {
+    list-style: square;
+}
+
+.image_text {
+    font-size: 1.5rem;
+}
